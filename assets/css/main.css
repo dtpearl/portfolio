@@ -3769,6 +3769,10 @@ input, select, textarea {
 				text-align: center;
 			}
 
+			.skills {
+				text-align: center;
+			}
+
 			@media screen and (max-width: 1280px) {
 
 				#main > .post {
